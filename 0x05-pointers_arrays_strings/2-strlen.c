@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * _strlen - this function change the initial.
  * @s: this is a parameter to change.
