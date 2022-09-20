@@ -15,4 +15,5 @@ int main(void)
 	len = _strlen(str);
 	printf("%d\n", len);
 	return (0);
+
 }
