@@ -26,4 +26,5 @@ char *_strncat(char *dest, char *src, int n)
 		*(dest + i + log) = *(src + i);
 	}
 	return (dest);
+
 }
