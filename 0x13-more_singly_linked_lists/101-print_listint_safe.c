@@ -8,6 +8,8 @@
  *
  * Return: Number of elements in list
  */
+ 
+ 
 size_t print_listint_safe(const listint_t *head)
 {
 	const listint_t *tmp, *tmp2;
@@ -32,6 +34,6 @@ size_t print_listint_safe(const listint_t *head)
 			break;
 		}
 	}
-
 	return (count);
+	
 }
